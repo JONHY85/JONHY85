@@ -30,7 +30,7 @@
 
 ### 📠Operating systems
    <img align="left" alt="Windows" width="75px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-   <img align="left" alt="Mac OS" width="75px" src="	https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
+   <img align="left" alt="Mac OS" width="75px" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
    <img align="left" alt="IOS" width="75px" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 <br>
 
